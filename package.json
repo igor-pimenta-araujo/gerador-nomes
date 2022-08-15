@@ -40,10 +40,6 @@
         "error",
         "double"
       ],
-      "indent": [
-        "error",
-        "tab"
-      ],
       "semi": [
         "error",
         "always"
