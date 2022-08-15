@@ -1,6 +1,5 @@
 <template>
   <div>
-    <small> {{ items }} </small>
     <h5>
       {{title}}
       <span class="badge bg-info">{{ items.length }}</span>
