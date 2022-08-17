@@ -1,6 +1,6 @@
 <template>
 	<div>
-		<h5>{{ title }} <span class="badge badge-info">{{ items.length }}</span></h5>
+		<h5>{{ title }} <span class="badge bg-info">{{ items.length }}</span></h5>
 		<div class="card">
 			<div class="card-body">
 				<ul class="list-group">
